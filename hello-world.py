@@ -1,6 +1,7 @@
 #!venv/bin/python
 '''
-Learn 
+calssify item based on weight & surface
+work with apple and orange only
 '''
 from sklearn import tree
 import csv
